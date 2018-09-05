@@ -1,3 +1,5 @@
+<h1 align=center>NOTE: THIS CODE IS ALMOST ENTIRELY FROM GITHUB USER YUUNE</h1>
+
 <h1 align=center>vimstart</h1>
 <h5 align=center>vim-command-like minimal startpage for your browser</h5>
 
